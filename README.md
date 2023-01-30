@@ -246,3 +246,4 @@ Documentation is lacking, but it can serve as an example for more advanced use.
 App: <https://github.com/ezet/glappen-client> 
 Backend: <https://github.com/ezet/glappen-firebase-api>
 # stripe-5.0.0
+# stripe_sdk
